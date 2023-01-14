@@ -4,7 +4,18 @@
 make an inclusive solution that help people in technology
 
 # Solution Concept
-find ways which take care of health of body and senses 
+A solution that takes care of the health of body and senses for workers and students 
+who need to use technology regularly so that it maintain their physical health
+
+# App Description
+Do you stare at screens all day?
+Do you have dry eyes, eye strain, headache or blurry vision!
+eyeTick will help you by following the 20-20-20 rule:
+it's a simple timer
+- for every 20min work on screen
+- the alarm will ring to give you 20sec to rest your eyes
+- and look away from the screen for 20ft away
+and give your beautiful eyes the break they deserve.
 
 # Technologies & Tools
 swiftui and avfoundation
