@@ -1,5 +1,7 @@
 # eyeTick
 
+![Apple TV Copy@1x](https://user-images.githubusercontent.com/116811193/212537097-2f468a06-2b2f-4b3e-bcb6-6a848de105c5.png)
+
 # Challenge Statement
 make an inclusive solution that help people in technology
 
